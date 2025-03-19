@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GITHUB_REPO = 'https://github.com/ansh0123456/TASK6.2C-jenkins.git'
-        EMAIL_RECIPIENTS = 'taneja9688@gmail.com
+        EMAIL_RECIPIENTS = 'taneja9688@gmail.com'
     }
 
     stages {
